@@ -9,6 +9,7 @@
 .banner-info {
   margin-left: 50px;
 }
+
 .banner-info h1 {
   font-size: 80px;
   margin: 0;
@@ -31,23 +32,79 @@
   color: #9873ff;
 }
 
-@media only screen and (max-width: 600px) {
-  .dream-job,
+@media only screen and (max-width: 1200px) {
   .banner-info h1 {
-    font-size: 30px;
+    font-size: 60px;
   }
-  .banner-info p {
-    font-size: 16px;
+
+  .banner-img {
+    width: 500px;
+    height: 400px;
+  }
+
+  .dream-job {
+    font-size: 60px;
   }
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 992px) {
   .banner-container {
-    margin-top: 30px;
     grid-template-columns: 1fr;
+    gap: 0;
   }
+
+  .banner-info {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .banner-info h1 {
+    font-size: 50px;
+  }
+
+  .banner-info p {
+    font-size: 20px;
+  }
+
   .banner-img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
+  }
+
+  .dream-job {
+    font-size: 50px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .banner-info h1 {
+    font-size: 40px;
+  }
+
+  .banner-info p {
+    font-size: 18px;
+  }
+
+  .dream-job {
+    font-size: 40px;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .banner-info h1 {
+    font-size: 30px;
+  }
+
+  .banner-info p {
+    font-size: 16px;
+  }
+
+  .banner-img {
+    width: 100%;
+    height: auto;
+  }
+
+  .dream-job {
+    font-size: 30px;
   }
 }
