@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Account & Finance",
+    "image": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "available_jobs": "300 Jobs Available"
+  },
+  {
+    "id": 2,
+    "name": "Creative Design",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "available_jobs": "100+ Jobs Available"
+  },
+  {
+    "id": 3,
+    "name": "Marketing & Sales",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=815&q=80",
+    "available_jobs": "226 Jobs Available"
+  },
+  {
+    "id": 4,
+    "name": "Engineering Job",
+    "image": "https://images.unsplash.com/photo-1575089976121-8ed7b2a54265?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "available_jobs": "300 Jobs Available"
+  }
+]

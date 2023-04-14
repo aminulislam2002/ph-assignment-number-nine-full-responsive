@@ -1,0 +1,27 @@
+.detail-container {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  padding: 0px 200px;
+  gap: 20px;
+  margin-top: 100px;
+}
+.detail-info {
+  background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+  padding: 20px;
+  border-radius: 8px;
+}
+.detail-card {
+  background: #dee2fc;
+  padding: 20px;
+  border-radius: 8px;
+}
+span {
+  font-weight: 800;
+  font-size: 20px;
+}
+.btn-apply {
+  width: 100%;
+}
+p{
+    font-size: 18px;
+}

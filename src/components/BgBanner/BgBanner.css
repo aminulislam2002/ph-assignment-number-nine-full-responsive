@@ -1,0 +1,10 @@
+.background-image {
+  background-image: url(../../assets/Vector-1.png), url(../../assets/Vector.png);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, no-repeat;
+  width: auto;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

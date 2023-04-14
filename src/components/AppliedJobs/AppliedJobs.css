@@ -1,0 +1,28 @@
+.cart-container {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 20px 100px;
+  border: 1px solid rebeccapurple;
+}
+.cart-container img {
+  width: 200px;
+  height: 90px;
+}
+.btn-flex {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.btn-job-type {
+  width: 80px;
+  height: 40px;
+  font-weight: 700;
+  font-size: 14px;
+  color: white;
+  background: linear-gradient(90deg, #7e90fe 0%, #9873ff 100%);
+  border-radius: 8px;
+}
+

@@ -1,0 +1,62 @@
+.btn {
+  width: 170px;
+  height: 60px;
+  font-weight: 700;
+  font-size: 20px;
+  color: white;
+  background: linear-gradient(90deg, #7e90fe 0%, #9873ff 100%);
+  border-radius: 8px;
+}
+
+.job-category-section,
+.feature-section {
+  margin-top: 50px;
+}
+.job-category-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.job-category-title,
+.feature-title {
+  text-align: center;
+}
+.job-category-title h1,
+.feature-title h1 {
+  font-size: 48px;
+  margin: 0;
+}
+.job-category-title p,
+.feature-title p {
+  font-size: 20px;
+}
+
+.feature-category-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.see-all-jobs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+@media only screen and (max-width: 600px) {
+  .feature-category-container,
+  .job-category-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 960px) {
+  .feature-category-container,
+  .job-category-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

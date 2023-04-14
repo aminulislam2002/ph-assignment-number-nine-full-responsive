@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "jobTitle": "Web Developer",
+    "jobDescription": "Web Developer: Design and develop web applications using modern technologies. Responsibilities include creating and maintaining web applications. Candidates should have a bachelor's degree in Computer Science or a related field, and 2+ years of experience in web development.",
+    "logo": "https://images.unsplash.com/photo-1601158935942-52255782d322?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80",
+    "companyName": "ABC Inc.",
+    "remoteOrOnsite": "Remote",
+    "fulltimeOrPartTime": "Full-time",
+    "location": "New York City",
+    "salary": "$80,000 - $100,000",
+    "jobResponsibility": "Web Developer: The primary responsibility for the Web Developer will be to create and maintain web applications using modern technologies. This will involve collaborating with other team members, as well as staying up-to-date with industry trends and developments to ensure that the web applications being developed are of the highest quality. The Web Developer will also be responsible for writing clean and efficient code, troubleshooting issues as they arise, and performing regular maintenance on existing web applications.",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "2+ years of experience in web development",
+    "contactInformation": {
+      "phone": "555-123-4567",
+      "email": "jobs@abcinc.com",
+      "address": "456 Broadway, Anothercity, USA 67890"
+    },
+    "button": "Apply Now"
+  },
+  {
+    "id": 2,
+    "jobTitle": "Marketing Manager",
+    "jobDescription": "Marketing Manager: Develop and implement marketing strategies to promote company products. Responsibilities include managing marketing campaigns and analyzing market trends. Candidates should have a bachelor's degree in Marketing or a related field, and 5+ years of experience in marketing.",
+    "logo": "https://images.unsplash.com/photo-1563694983011-6f4d90358083?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "companyName": "XYZ Corp.",
+    "remoteOrOnsite": "Onsite",
+    "fulltimeOrPartTime": "Full-time",
+    "location": "Los Angeles",
+    "salary": "$90,000 - $110,000",
+    "jobResponsibility": "Marketing Manager: The Marketing Manager will be responsible for developing and implementing marketing strategies to promote company products. This will involve managing marketing campaigns, analyzing market trends, and collaborating with other team members to ensure that marketing efforts are aligned with overall business goals. The Marketing Manager will also be responsible for measuring the success of marketing initiatives, refining strategies as needed, and ensuring that all marketing materials are consistent with the company's brand and messaging.",
+    "educationalRequirements": "Bachelor's degree in Marketing or related field",
+    "experiences": "5+ years of experience in marketing",
+    "contactInformation": {
+      "phone": "555-234-5678",
+      "email": "jobs@xyzcorp.com",
+      "address": "789 Elm St, Yourtown, USA 23456"
+    }
+  },
+  {
+    "id": 3,
+    "jobTitle": "Software Engineer",
+    "jobDescription": "Software Engineer: Develop software solutions using various programming languages. Responsibilities include writing and maintaining code for software applications. Candidates should have a bachelor's degree in Computer Science or a related field, and 3+ years of experience in software development.",
+    "logo": "https://images.unsplash.com/photo-1516876437184-593fda40c7ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+    "companyName": "123 Tech Inc.",
+    "remoteOrOnsite": "Remote",
+    "fulltimeOrPartTime": "Full-time",
+    "location": "San Francisco",
+    "salary": "$100,000 - $120,000",
+    "jobResponsibility": "Software Engineer: The primary responsibility for the Software Engineer will be to write and maintain code for software applications. This will involve collaborating with other team members to ensure that software solutions meet business requirements, as well as troubleshooting issues as they arise. The Software Engineer will also be responsible for staying up-to-date with industry trends and developments to ensure that the software being developed is of the highest quality, and for performing regular maintenance on existing software applications",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "3+ years of experience in software development",
+    "contactInformation": {
+      "phone": "555-345-6789",
+      "email": "jobs@123techinc.com",
+      "address": "1011 Oak Ave, HisCity, USA 78901"
+    }
+  },
+  {
+    "id": 4,
+    "jobTitle": "Accountant",
+    "jobDescription": "Accountant: Prepare financial statements and reports for clients. Responsibilities include maintaining accounting records and ensuring compliance with tax laws. Candidates should have a bachelor's degree in Accounting or a related field, and 2+ years of experience in accounting.",
+    "logo": "https://images.unsplash.com/photo-1611488006001-eb993d4d2ec4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+    "companyName": "Accounting Services",
+    "remoteOrOnsite": "Onsite",
+    "fulltimeOrPartTime": "Part-time",
+    "location": "Chicago",
+    "salary": "$50,000 - $60,000",
+    "jobResponsibility": "Accountant: The Accountant will be responsible for maintaining accounting records and preparing financial statements and reports for clients. This will involve ensuring compliance with tax laws, as well as analyzing financial data and providing guidance on financial matters to clients. The Accountant will also be responsible for managing client relationships, communicating with clients regarding financial matters, and staying up-to-date with changes to accounting standards and regulations.",
+    "educationalRequirements": "Bachelor's degree in Accounting or related field",
+    "experiences": "2+ years of experience in accounting",
+    "contactInformation": {
+      "phone": "555-456-7890",
+      "email": "jobs@abcaccounting.com",
+      "address": "1213 Pine St, HerVille, USA 23456"
+    }
+  },
+  {
+    "id": 5,
+    "jobTitle": "Graphic Designer",
+    "jobDescription": "Graphic Designer: Create visually appealing designs for print and digital media. Responsibilities include designing marketing materials and maintaining brand consistency. Candidates should have an associate's degree in Graphic Design or a related field, and 1+ years of experience in graphic design.",
+    "logo": "https://images.unsplash.com/photo-1614851099518-055a1000e6d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "companyName": "Design Co.",
+    "remoteOrOnsite": "Remote",
+    "fulltimeOrPartTime": "Part-time",
+    "location": "Miami",
+    "salary": "$25 - $35 per hour",
+    "jobResponsibility": "Graphic Designer: The primary responsibility for the Graphic Designer will be to create visually appealing designs for print and digital media. This will involve designing marketing materials, maintaining brand consistency, and collaborating with other team members to ensure that all design work meets business requirements. The Graphic Designer will also be responsible for staying up-to-date with industry trends and developments, refining design strategies as needed, and ensuring that all design work is consistent with the company's brand and messaging.",
+    "educationalRequirements": "Associate's degree in Graphic Design or related field",
+    "experiences": "1+ years of experience in graphic design",
+    "contactInformation": {
+      "phone": "555-456-7890",
+      "email": "jobs@abcaccounting.com",
+      "address": "1415 Maple Dr, Somewhere, USA 34567"
+    }
+  },
+  {
+    "id": 6,
+    "jobTitle": "Social Media Manager",
+    "jobDescription": "The Great Barrier Reef is a massive coral reef system located in the Coral Sea, off the coast of Australia. It is the world's largest coral reef system, stretching over 2,300 km and comprising of more than 2,900 individual reefs and 900 islands. The reef is home to a diverse array of marine life, including over 1,500 species of fish and 600 types of coral. It is a popular destination for snorkeling and diving, but is also facing significant threats from climate change and human activity, making conservation efforts crucial for its survival.",
+    "logo": "https://images.unsplash.com/photo-1612810806563-4cb8265db55f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80",
+    "companyName": "Marketing Agency Inc.",
+    "remoteOrOnsite": "Remote",
+    "fulltimeOrPartTime": "Full-time",
+    "location": "Denver",
+    "salary": "$60,000 - $80,000",
+    "jobResponsibility": "As a Social Media Manager, you will be responsible for developing and executing social media campaigns across various platforms to promote the company and its clients. You will need to create engaging content, monitor social media analytics, and collaborate with other departments to ensure the messaging aligns with the overall marketing strategy. You will also need to stay up-to-date with industry trends and make recommendations for improving social media presence.",
+    "educationalRequirements": "Bachelor's degree in Marketing or related field",
+    "experiences": "3+ years of experience in social media management",
+    "contactInformation": {
+      "phone": "555-789-1234",
+      "email": "jobs@marketingagency.com",
+      "address": "123 Main St, Anytown, USA 12345"
+    }
+  }
+]

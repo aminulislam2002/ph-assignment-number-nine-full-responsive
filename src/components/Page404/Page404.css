@@ -1,0 +1,28 @@
+.page404-container {
+  width: auto;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.page404-container h1 {
+  font-size: 100px;
+  margin: 0;
+  color: red;
+}
+.page404-container h2 {
+  font-size: 50px;
+  color: red;
+  margin: 0;
+}
+.page404-container h3 {
+  font-size: 30px;
+  color: red;
+  margin: 0;
+}
+
+a {
+  margin-top: 10px;
+  font-size: 20px;
+}
